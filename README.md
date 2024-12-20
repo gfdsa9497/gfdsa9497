@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! My Name is Lee<span>&#x1F60E;</span> Cool sunglasses
 
 <!--
 **gfdsa9497/gfdsa9497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About Me
+
+## Skills
+- Java
+- Python
+- Spring Boot
+- MySQL
+- React
+
+## Goal
+Aspiring to become a **Backend Developer**.
+
+## Achievements
+- **Backjoon Online Judge**: Ranked **Gold 3**.
+
+## Background
+I graduated from **Korea University of Technology and Education (KOREATECH)** and am currently preparing for employment.  
+I am always hungry — hungry to learn, grow, and improve myself.
