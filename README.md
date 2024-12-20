@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br><br>
-### About Me
+<br>
+# About Me
 
 ## Skills
 - Java
