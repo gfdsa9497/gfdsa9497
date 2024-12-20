@@ -1,4 +1,4 @@
-# Hello! My Name is Lee<span>&#x1F60E;</span> Cool sunglasses
+# Hello! My Name is Lee<span>&#x1F60E;</span>
 
 <!--
 **gfdsa9497/gfdsa9497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
