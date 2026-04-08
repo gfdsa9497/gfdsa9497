@@ -9,8 +9,7 @@
 </div>
 
 [![solved.ac](https://mazassumnida.wtf/api/generate_badge?boj=gfdsa949)](https://solved.ac/gfdsa949)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gfdsa9497&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gfdsa9497&theme=dark)
 
 
 ## 🛠️ Tech Stack
