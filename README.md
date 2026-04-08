@@ -22,5 +22,5 @@
 ## 🎯 BOJ
 </div>
 <div>
-[![solved.ac](https://mazandi.herokuapp.com/api?handle=gfdsa949&theme=warm)](https://solved.ac/gfdsa949)
+[![solved.ac](https://mazandi.herokuapp.com/api?handle=gfdsa949&theme=warm)](https://solved.ac/gfdsa949)]
 </div>
