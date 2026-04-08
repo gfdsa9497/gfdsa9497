@@ -1,8 +1,9 @@
 <div align="center">
 
-# Hi there, I'm [Your Name] 👋
+# 안녕하세 백엔드 개발자 이진욱입니다. 👋
 
-**Backend Developer** · Building reliable systems that power great products
+낮은 결합도와 높은 응집도를 기반으로 한 견고한 아키텍처 설계를 추구합니다. 
+이를 통해 빠른 기능 개선과 안정적인 서비스 제공이 가능해지며, 궁극적으로 사용자에게 더 나은 경험을 전달할 수 있다고 생각합니다.
 
 </div>
 
@@ -16,6 +17,11 @@
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Data Access
+![JPA](https://img.shields.io/badge/Spring%20JPA-90EE90)
+![MyBatis](https://img.shields.io/badge/MyBatis-ADD8E6)
+
 
 ### Infrastructure & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -54,7 +60,7 @@
 | Platform | Link |
 |:---:|:---:|
 | ✉️ Email | [leejw9497@gmail.com](mailto:leejw9497@gmail.com) |
-| 📝 Blog | [velog]([https://velog.io/@gfdsa9497/posts]) |
+| 📝 Blog | [velog](https://velog.io/@gfdsa9497/posts) |
 
 
 </div>
