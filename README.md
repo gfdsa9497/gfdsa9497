@@ -22,5 +22,5 @@
 ## 🎯 BOJ
 </div>
 <div>
-  [![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=gfdsa949)](https://solved.ac/gfdsa949)
+[![solved.ac](https://mazassumnida.wtf/api/generate_badge?boj=gfdsa949)](https://solved.ac/gfdsa949)
 </div>
