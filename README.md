@@ -10,11 +10,7 @@
 
 [![solved.ac](https://mazassumnida.wtf/api/generate_badge?boj=gfdsa949)](https://solved.ac/gfdsa949)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gfdsa949&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfdsa949&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gfdsa949&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gfdsa9497&show_icons=true&theme=dark&hide_border=true)
 
 
 ## 🛠️ Tech Stack
