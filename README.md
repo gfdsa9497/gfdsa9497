@@ -8,8 +8,12 @@
 
 </div>
 
-[![solved.ac](https://mazassumnida.wtf/api/generate_badge?boj=gfdsa949)](https://solved.ac/gfdsa949)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gfdsa9497&theme=dark)
+<div align="center">
+  <a href="https://solved.ac/gfdsa949">
+    <img src="https://mazassumnida.wtf/api/generate_badge?boj=gfdsa949" />
+  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gfdsa9497&theme=dark" />
+</div>
 
 
 ## 🛠️ Tech
