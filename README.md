@@ -25,17 +25,6 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" />
-</div>
-
 ---
 
 ## 🏆 Achievements & Certifications
@@ -64,8 +53,8 @@
 
 | Platform | Link |
 |:---:|:---:|
-| ✉️ Email | [your@email.com](mailto:your@email.com) |
-| 📝 Blog | [yourblog.com](https://yourblog.com) |
+| ✉️ Email | [leejw9497@gmail.com](mailto:leejw9497@gmail.com) |
+| 📝 Blog | [velog]([https://velog.io/@gfdsa9497/posts]) |
 
 
 </div>
