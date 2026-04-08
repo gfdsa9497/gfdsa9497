@@ -1,9 +1,10 @@
 <div>
 
-# 안녕하세 백엔드 개발자 이진욱입니다. 👋
+# 안녕하세요 백엔드 개발자 이진욱입니다. 👋
 
 낮은 결합도와 높은 응집도를 기반으로 한 견고한 아키텍처 설계를 추구합니다. 
 이를 통해 빠른 기능 개선과 안정적인 서비스 제공이 가능해지며, 궁극적으로 사용자에게 더 나은 경험을 전달할 수 있다고 생각합니다.
+항상 수용하는 자세로 끈임없이 성장하기 위해 노력 중입니다.
 
 </div>
 
@@ -18,5 +19,8 @@
 | ✉️ Email | [leejw9497@gmail.com](mailto:leejw9497@gmail.com) |
 | 📝 Blog | [velog](https://velog.io/@gfdsa9497/posts) |
 
-
+## 🎯 BOJ
+</div>
+<div>
+  [![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=gfdsa949)](https://solved.ac/gfdsa949)
 </div>
